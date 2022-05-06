@@ -1,3 +1,8 @@
 salut toi !
 ceci est un test
+<<<<<<< HEAD
+icule
+looool
+=======
 Ahmed me manque !
+>>>>>>> 0306b37ed62c43a2e1bee247d828af64311a5636

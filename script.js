@@ -4,5 +4,6 @@ function object(nom, prenom, age){
            Age: age}
 }
 
+
 console.log(object("test", "test2", "25"));
 module.exports = object

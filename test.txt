@@ -1,5 +1,6 @@
 salut toi !
 ceci est un test
+<<<<<<< HEAD
 
 Je suis un hackeur professionnel
 un
@@ -11,3 +12,11 @@ cinq
 six
 cueillir des cerises
 Ahmed me manque !
+=======
+<<<<<<< HEAD
+icule
+looool
+=======
+Ahmed me manque !
+>>>>>>> 0306b37ed62c43a2e1bee247d828af64311a5636
+>>>>>>> a06d274dbc04bce7415266be154353db34830727
